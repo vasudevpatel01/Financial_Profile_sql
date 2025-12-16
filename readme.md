@@ -1,4 +1,4 @@
-# Banking Real Dataset — End-to-End SQL Developer Project
+# Banking Real Dataset — End-to-End SQL Project
 
 ## Overview
 This project ingests card transaction CSV data, normalizes it into MySQL, provides stored procedures and triggers for daily reports and basic fraud alerts, and contains analytics queries suitable for dashboards.
